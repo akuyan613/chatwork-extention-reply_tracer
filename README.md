@@ -8,7 +8,7 @@
 ## tokenの設定
 
 ```
-token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+token = "123183e993f4a7dd84ca296e038f7929";
 ```
 
 取得したトークンを、上記部分に記述すると動作します。
